@@ -34,7 +34,7 @@ which are adapted from the [emp-toolkit](https://github.com/emp-toolkit).
 You can also run TinyGarble2 in a [docker](https://docs.docker.com/get-docker/). 
 
 - Download the <a id="raw-url-docker" href="https://raw.githubusercontent.com/IntelLabs/TinyGarble2.0/master/Dockerfile" download="Dockerfile">Dockerfile</a>
-and build the image with `docker build -t tinygarble2:latest <download-directory>`. (Note: If the browswer appends a ".txt" extension after "Dockerfile" during dlownload, please remove the extension.)
+and build the image with `docker build -t tinygarble2:latest <download-directory>`. (Note: If the browser appends a ".txt" extension after "Dockerfile" during download, please remove the extension.)
 
     Or
     
